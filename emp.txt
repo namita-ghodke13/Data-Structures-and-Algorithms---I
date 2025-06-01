@@ -1,0 +1,5 @@
+om     45
+sai    35
+sham   27
+ram    42
+aman   37
